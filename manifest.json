@@ -1,0 +1,20 @@
+{
+  "short_name": "ArquiCostos",
+  "name": "ArquiCostos AI Calculadora",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10664/10664988.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10664/10664988.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc"
+}
